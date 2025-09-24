@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "sport": "Run",
+    "date": "2025-09-16",
+    "title": "Intervals 800*5",
+    "time": "52:51",
+    "distance": "7.89 km",
+    "elevation": "29 m",
+    "relative_effort": 32,
+    "description": "Morning interval session. Felt strong.",
+    "images": ["https://via.placeholder.com/100x60?text=Run1"],
+    "videos": [],
+    "thumbnail": "https://via.placeholder.com/100x60?text=Thumb1"
+  },
+  {
+    "id": "2",
+    "sport": "Swim",
+    "date": "2025-09-15",
+    "title": "Afternoon Swim",
+    "time": "20:58",
+    "distance": "500 m",
+    "elevation": "0 m",
+    "relative_effort": 4,
+    "description": "Easy swim at the pool.",
+    "images": ["https://via.placeholder.com/100x60?text=Swim1"],
+    "videos": [],
+    "thumbnail": "https://via.placeholder.com/100x60?text=Thumb2"
+  },
+  {
+    "id": "3",
+    "sport": "Weight Training",
+    "date": "2025-09-15",
+    "title": "Morning Weight Training",
+    "time": "1:24:34",
+    "distance": "0 km",
+    "elevation": "0 m",
+    "relative_effort": 14,
+    "description": "Strength session.",
+    "images": [],
+    "videos": [],
+    "thumbnail": ""
+  },
+  {
+    "id": "4",
+    "sport": "Run",
+    "date": "2025-09-13",
+    "title": "Morning Run",
+    "time": "1:23:33",
+    "distance": "15.00 km",
+    "elevation": "11 m",
+    "relative_effort": 61,
+    "description": "Long run.",
+    "images": ["https://via.placeholder.com/100x60?text=Run2"],
+    "videos": [],
+    "thumbnail": "https://via.placeholder.com/100x60?text=Thumb3"
+  }
+]

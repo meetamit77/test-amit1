@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Wipro Bangalore Marathon",
+    "sport": "Run",
+    "date": "2025-09-21",
+    "time": "04:00"
+  },
+  {
+    "name": "Post Marathon Treat",
+    "sport": "Party",
+    "date": "2025-09-21",
+    "time": "18:00"
+  },
+  {
+    "name": "Delhi Marathon",
+    "sport": "Run",
+    "date": "2026-02-22",
+    "time": "04:00"
+  }
+]
